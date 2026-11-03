@@ -25,8 +25,4 @@ Custom Visualization: Includes an automated HTML-style legend UI panel and stand
 
 
 
- How to Run
-1. Open the [Google Earth Engine Code Editor](https://code.earthengine.google.com/).
-2. Create a new script and paste the GEE code.
-3. Replace the region of interest asset ID with your own district boundary asset: javascript
-   var roi = ee.FeatureCollection('your_project_id/assets/your_district_boundary').geometry();
+ 
