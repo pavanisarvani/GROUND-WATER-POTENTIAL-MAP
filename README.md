@@ -1,5 +1,5 @@
-# GROUND-WATER-POTENTIAL-MAP
-HYDROLOGICALLY CORRECTED GROUNDWATER POTENTIAL ZONE MAP
+# GROUND-WATER-POTENTIAL-MAP OF VISAKHAPATNAM AREA
+HYDROLOGICALLY CORRECTED GROUNDWATER POTENTIAL ZONE MAP 
  
  Overview
 This repository contains a Google Earth Engine (GEE) script for mapping Groundwater Potential Zones (GWPZ) using **Multi-Criteria Decision Analysis (MCDA) combined with hydrological constraints and spatial smoothing. 
